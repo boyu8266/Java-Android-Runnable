@@ -7,3 +7,5 @@
 ## 環境
 - IDE: IntelliJ IDEA 2020.2.1 (Community Edition)
 - JAVA Version: 11
+## 詳細文章說明
+[[Medium] [Java/Android] Runnable](https://medium.com/@boryuh8266/java-android-runnable-6b55613c621d)
